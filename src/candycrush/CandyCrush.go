@@ -1,5 +1,5 @@
 /*
-	Main program for Candy Crush game
+Main program for Candy Crush game
 */
 package main
 
